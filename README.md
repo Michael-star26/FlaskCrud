@@ -1,4 +1,6 @@
 You can create a html form like this 
+![signup](https://github.com/user-attachments/assets/e6525f24-c707-4197-af04-61b715d91131)
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
